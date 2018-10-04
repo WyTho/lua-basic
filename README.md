@@ -25,4 +25,7 @@ wherever it's necessary
 |   Name	|  Author 	|   Link	|
 |--- 	|---	|---	|
 |Markdown: Syntax |The Daring Fireball company|https://goo.gl/1npw2R|
-|Lua basic tutorial|Tutorialspoint|https://goo.gl/QTrwmb|            
+|Lua basic tutorial|Tutorialspoint|https://goo.gl/QTrwmb|
+|String library tutorial|Lua-users.org|https://goo.gl/cHiqyL|
+|Scope tutorial|Lua-users.org|https://goo.gl/KEfskK|
+|Functions|Lua-users.org|https://goo.gl/c9G8Dx|
