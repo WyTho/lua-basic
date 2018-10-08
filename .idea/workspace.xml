@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5034896b-cc1b-4dbe-bca6-3608fa7265f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5034896b-cc1b-4dbe-bca6-3608fa7265f9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +24,7 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="lua" value="9" />
+          <entry key="lua" value="10" />
           <entry key="md" value="2" />
           <entry key="xml" value="4" />
         </counts>
@@ -34,7 +32,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="Lua" value="9" />
+          <entry key="Lua" value="10" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="4" />
@@ -43,13 +41,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="52" />
-          <entry key="lua" value="3771" />
+          <entry key="lua" value="4546" />
           <entry key="md" value="1395" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Lua" value="3771" />
+          <entry key="Lua" value="4546" />
           <entry key="Markdown" value="1316" />
           <entry key="PLAIN_TEXT" value="131" />
         </counts>
@@ -85,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/Loops/loops.lua">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
               <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/If Else Statements/ifElseStatements.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -120,10 +127,11 @@
         <option value="$PROJECT_DIR$/examples/Operators/operators.lua" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/examples/Loops/loops.lua" />
+        <option value="$PROJECT_DIR$/examples/If Else Statements/ifElseStatements.lua" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="y" value="30" />
     <option name="width" value="974" />
@@ -168,13 +176,7 @@
               <item name="lua-basic" type="b2602c69:ProjectViewProjectNode" />
               <item name="lua-basic" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Loops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lua-basic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lua-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="If Else Statements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,14 +292,14 @@
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09808102" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09808102" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49946696" visible="true" weight="0.33154505" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49946696" visible="true" weight="0.33154505" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -381,6 +383,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/If Else Statements/ifElseStatements.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>
