@@ -29,3 +29,4 @@ wherever it's necessary
 |String library tutorial|Lua-users.org|https://goo.gl/cHiqyL|
 |Scope tutorial|Lua-users.org|https://goo.gl/KEfskK|
 |Functions|Lua-users.org|https://goo.gl/c9G8Dx|
+|Better explanation for loops(includes ipairs,next(), custom)|Lua-users.org|https://goo.gl/oAHNx5|
