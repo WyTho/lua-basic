@@ -7,7 +7,6 @@
 -- Global variables # All variables are considered global unless explicitly declared as a local.
 -- Local variables # When the type is specified as local for a variable then its scope is limited with the functions inside their scope.
 -- Table fields # This is a special type of variable that can hold anything except nil including functions.
-local a, b
 
 -- Global initialization
 print("== Global Initialization ==")
